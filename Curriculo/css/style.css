@@ -1,0 +1,26 @@
+#corpo{
+  margin: 0 auto;
+  color:#CCFF00;
+  font-family: sans-serif;
+  text-align: left;
+  line-height: 1.5;
+}
+#titulos{
+  margin: 0 auto;
+  color:#FFFFFF;
+  font-family: sans-serif;
+  text-align: left;
+}
+#titulos2{
+  margin: 0 auto;
+  color:#FF0000;
+  font-family: sans-serif;
+  text-align: center;
+}
+#corpoContato{
+  margin: 0 auto;
+  color:#FFFFFF;
+  font-family: sans-serif;
+  text-align: left;
+  line-height: 1.5;
+}
